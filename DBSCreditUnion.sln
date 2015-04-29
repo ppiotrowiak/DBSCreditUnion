@@ -1,0 +1,69 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2013 for Windows Desktop
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DBSCreditUnion", "DBSCreditUnion\DBSCreditUnion.csproj", "{6325E413-A2F0-463F-B753-58378A8E7D68}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataModels", "Model\DataModels.csproj", "{8C33E5E5-B90F-44DD-92BD-75DBF17363E6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{3515070A-DF29-413E-B32F-91A4EED36F18}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BLL", "BLL\BLL.csproj", "{1ACFD447-F353-4314-AFCC-6825E8D3A437}"
+EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "DatabaseCU", "DatabaseCU\DatabaseCU.sqlproj", "{8B78671D-A9D1-4A53-8940-30EE2D9EBB0C}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 6
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://przemekxbie.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = DBSCreditUnion\\DBSCreditUnion.csproj
+		SccProjectName1 = DBSCreditUnion
+		SccLocalPath1 = DBSCreditUnion
+		SccProjectUniqueName2 = Model\\DataModels.csproj
+		SccProjectName2 = Model
+		SccLocalPath2 = Model
+		SccProjectUniqueName3 = DAL\\DAL.csproj
+		SccProjectName3 = DAL
+		SccLocalPath3 = DAL
+		SccProjectUniqueName4 = BLL\\BLL.csproj
+		SccProjectName4 = BLL
+		SccLocalPath4 = BLL
+		SccProjectUniqueName5 = DatabaseCU\\DatabaseCU.sqlproj
+		SccProjectName5 = DatabaseCU
+		SccLocalPath5 = DatabaseCU
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6325E413-A2F0-463F-B753-58378A8E7D68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6325E413-A2F0-463F-B753-58378A8E7D68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6325E413-A2F0-463F-B753-58378A8E7D68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6325E413-A2F0-463F-B753-58378A8E7D68}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C33E5E5-B90F-44DD-92BD-75DBF17363E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C33E5E5-B90F-44DD-92BD-75DBF17363E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C33E5E5-B90F-44DD-92BD-75DBF17363E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C33E5E5-B90F-44DD-92BD-75DBF17363E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3515070A-DF29-413E-B32F-91A4EED36F18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3515070A-DF29-413E-B32F-91A4EED36F18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3515070A-DF29-413E-B32F-91A4EED36F18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3515070A-DF29-413E-B32F-91A4EED36F18}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1ACFD447-F353-4314-AFCC-6825E8D3A437}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1ACFD447-F353-4314-AFCC-6825E8D3A437}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1ACFD447-F353-4314-AFCC-6825E8D3A437}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1ACFD447-F353-4314-AFCC-6825E8D3A437}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B78671D-A9D1-4A53-8940-30EE2D9EBB0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B78671D-A9D1-4A53-8940-30EE2D9EBB0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B78671D-A9D1-4A53-8940-30EE2D9EBB0C}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{8B78671D-A9D1-4A53-8940-30EE2D9EBB0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B78671D-A9D1-4A53-8940-30EE2D9EBB0C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B78671D-A9D1-4A53-8940-30EE2D9EBB0C}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

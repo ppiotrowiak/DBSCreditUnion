@@ -1,0 +1,4 @@
+C:\Users\przemek\Documents\Visual Studio 2013\Projects\DBSCreditUnion\DBSCreditUnion\Model\bin\Debug\Model.dll
+C:\Users\przemek\Documents\Visual Studio 2013\Projects\DBSCreditUnion\DBSCreditUnion\Model\bin\Debug\Model.pdb
+C:\Users\przemek\Documents\Visual Studio 2013\Projects\DBSCreditUnion\DBSCreditUnion\Model\obj\Debug\Model.dll
+C:\Users\przemek\Documents\Visual Studio 2013\Projects\DBSCreditUnion\DBSCreditUnion\Model\obj\Debug\Model.pdb

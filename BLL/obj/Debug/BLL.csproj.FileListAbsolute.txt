@@ -1,0 +1,9 @@
+C:\Users\przemek\Documents\Visual Studio 2013\Projects\DBSCreditUnion\DBSCreditUnion\BLL\bin\Debug\BLL.dll
+C:\Users\przemek\Documents\Visual Studio 2013\Projects\DBSCreditUnion\DBSCreditUnion\BLL\bin\Debug\BLL.pdb
+C:\Users\przemek\Documents\Visual Studio 2013\Projects\DBSCreditUnion\DBSCreditUnion\BLL\bin\Debug\DAL.dll
+C:\Users\przemek\Documents\Visual Studio 2013\Projects\DBSCreditUnion\DBSCreditUnion\BLL\bin\Debug\DAL.pdb
+C:\Users\przemek\Documents\Visual Studio 2013\Projects\DBSCreditUnion\DBSCreditUnion\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\przemek\Documents\Visual Studio 2013\Projects\DBSCreditUnion\DBSCreditUnion\BLL\obj\Debug\BLL.dll
+C:\Users\przemek\Documents\Visual Studio 2013\Projects\DBSCreditUnion\DBSCreditUnion\BLL\obj\Debug\BLL.pdb
+C:\Users\przemek\Documents\Visual Studio 2013\Projects\DBSCreditUnion\DBSCreditUnion\BLL\bin\Debug\Model.dll
+C:\Users\przemek\Documents\Visual Studio 2013\Projects\DBSCreditUnion\DBSCreditUnion\BLL\bin\Debug\Model.pdb

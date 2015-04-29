@@ -1,0 +1,13 @@
+29/04/2015 22:13:31	This log contains information about the import operation of the script 'SQLCreateTables.sql' into project 'DatabaseCU' on computer 'WIN-7-64-100GB' by user'przemek.
+29/04/2015 22:13:33	Started importing file: C:\Users\przemek\AppData\Local\Temp\tmpFA24.tmp 
+29/04/2015 22:13:33	File name C:\Users\przemek\AppData\Local\Temp\tmpFA24.tmp (size: 21473)
+29/04/2015 22:13:33	Parsing import script
+29/04/2015 22:13:38	Total number of batches in script: 53
+29/04/2015 22:13:38	Total number of statements in script: 25
+29/04/2015 22:13:38	The script was successfully imported into the project.
+29/04/2015 22:13:38	Analyzing schema objects...
+29/04/2015 22:13:38	Scanning project for duplicate elements
+29/04/2015 22:13:38	Finished duplicate element processing
+29/04/2015 22:13:47	In the script that you provided to the import operation, one or more statements were not fully understood. These statements were moved to the ScriptsIgnoredOnImport.sql file. Review the file contents for additional information.
+29/04/2015 22:13:47	A summary of the import was saved to the following location: C:\Users\przemek\Documents\Visual Studio 2013\Projects\DBSCreditUnion\DBSCreditUnion\DatabaseCU\Import Script Logs\SQLCreateTables_sql_20150429091331.log
+29/04/2015 22:13:47	Click Finish to continue...
